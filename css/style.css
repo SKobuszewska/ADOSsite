@@ -1,0 +1,62 @@
+
+<!--  .klasa {}-->
+.naglowki {text-align: center;
+            font-size: large;
+            font-weight: bold;
+            }
+
+<!-- #id {} -->
+
+
+h1 {font-size: 36px;}
+h2 {font-size: 26px;}
+h1, h2 {text-align: center;}
+p {font-size: 16px;}
+h1 {text-align: center;}
+h1 {background-color: 	#B0E0E6}
+p {text-align: center;}
+address {text-align: center;}
+form {text-align: center;}
+
+#kontakt {
+    background-color: #B0E0E6;
+    
+}
+
+#menu_strony a:link, #menu_strony a:visited {
+
+    font-size: 22px;
+    color: #B0E0E6;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    padding-top: 40px;
+}
+
+#menu_strony a:hover {
+    background-color: #B0E0E6;
+    color: white;
+}
+
+#menu_strony a:active {
+    background-color: #B0E0E6;
+    color: white;
+    
+    }
+
+a:link, a:visited {
+
+    color:black;
+    text-decoration: none;
+    
+}
+
+.hide {
+    text-indent: -9999px;
+    height: 0px;
+}
+
+.tresc {
+
+    padding-left: 30px;    
+}
